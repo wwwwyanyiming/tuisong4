@@ -5,8 +5,8 @@
 "user": ["ogZRv6bYB7Dh0C23vekMz9EerQJI","ogZRv6f94qk-wc8Yy6QgakmFVTok"],
 "weather_key": "e3c80c6df0bf4ad3bd96340acb82d9e6",
 "region": "滨州市",
-"birthday1": {"name": "闫一鸣", "birthday": "2003-08-24"},
-"birthday2": {"name": "赵俊霞", "birthday": "2004-01-11"},
+"birthday1": {"name": "闫一鸣", "birthday": "2003-09-20"},
+"birthday2": {"name": "赵俊霞", "birthday": "2004-02-01"},
 "love_date": "2022-08-07",
 "note_ch": "",
 "note_en": ""
